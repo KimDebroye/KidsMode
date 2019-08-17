@@ -40,7 +40,7 @@ RPi ES Kids Mode Toggler is
 	- It creates a subfolder called 'assets'.
 	- It creates a 'KidsMode.ini' file in the assets folder.
 	- It creates a backup of all files and folders that this tool may change in the 'assets\backup' folder.
-		- **Important note: depending on the size and quantity of the files and folders needing a backup, it may take some time for this tool to pop up when you run it the first time. Please be patient.**
+		- **Important note**: `Depending on the size and quantity of the files and folders needing a backup, it may take some time for this tool to pop up when you run it the first time. Please be patient.`
 	- Note: when the 'assets' folder is deleted, the above steps are repeated.
 - **Retropie Options Menu**
 	- This button toggles the Retropie Options Menu visibility in your system select screen.
