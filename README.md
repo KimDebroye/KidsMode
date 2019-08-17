@@ -56,17 +56,17 @@ RPi ES Kids Mode Toggler is
 	- When off, f.e. (Select+X) won't show the RetroArch Ingame menu.
 		- Note: Keyboard hotkey or, when specifically set, a controller hotkey combo will still work.
 	- *Note: Does not require an EmulationStation restart or RPi reboot in order for changes to take effect.*
-	- Tip: a good way to set a Show Menu hotkey for all RetroArch system cores:
-		- In EmulationStation:
-			- Go to Retropie Options Menu -> RetroArch
-		- In RetroArch:
-			- Go to Settings tab (2nd tab) -> Input
-				- Hotkey Binds
-					- Set Hotkeys (to f.e. Select)
-					- Set Menu toggle (to f.e. X)
-					- Set any other hotkey binds
-			- Go to Main Menu (1st tab) -> Configuration File
-				- Save Current Configuration
+	- `Tip: a good way to set a Show Menu hotkey for all RetroArch system cores:`
+		- `In EmulationStation:`
+			- `Go to Retropie Options Menu -> RetroArch`
+		- `In RetroArch:`
+			- `Go to Settings tab (2nd tab) -> Input`
+				- `Hotkey Binds`
+					- `Set Hotkeys (to f.e. Select)`
+					- `Set Menu toggle (to f.e. X)`
+					- `Set any other hotkey binds`
+			- `Go to Main Menu (1st tab) -> Configuration File`
+				- `Save Current Configuration`
 - **UI Mode**
 	- This button toggles between available EmulationStation UI Modes (Full, Kiosk, Kids).
 	- More information about UI Modes: https://github.com/RetroPie/RetroPie-Setup/wiki/Child-friendly-EmulationStation#ui-modes
