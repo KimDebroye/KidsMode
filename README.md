@@ -1,6 +1,6 @@
 # RPi ES Kids Mode Toggler
 
-[IMAGE PLACEHOLDER]
+![alt text](https://github.com/KimDebroye/KidsMode/blob/master/_GitHubAssets/Preview.png "Kids Mode Preview")
 
 ## At a glance
 
