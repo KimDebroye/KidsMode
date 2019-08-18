@@ -7,7 +7,7 @@
 RPi ES Kids Mode Toggler is
 - an easy to use
 - Windows GUI PowerShell script
-	- turned into a single Windows executable file
+	- turned into a single light-weight Windows executable file
 - able to toggle child friendly settings
 	- **Show/Hide Retropie Options** at system select screen
 	- **Enable/Disable Launch Menu** at game start
