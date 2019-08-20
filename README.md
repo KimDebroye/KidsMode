@@ -43,7 +43,9 @@ RPi ES Kids Mode Toggler is
 		- Select '**Keep**'.
 - **If Windows Defender Smartscreen kicks in** after double clicking 'KidsMode.exe':
 	- ![Click 'More info'](https://raw.githubusercontent.com/KimDebroye/KidsMode/master/_GitHubAssets/WindowsDefender_SmartScreen_1.png "Windows Defender Smartscreen - Step 1")
+		- (1) Click 'More info'
 	- ![Click 'Run anyway'](https://raw.githubusercontent.com/KimDebroye/KidsMode/master/_GitHubAssets/WindowsDefender_SmartScreen_2.png "Windows Defender Smartscreen - Step 2")
+		- (2) Click 'Run anyway'
 
 ## How to use & what it does
 
