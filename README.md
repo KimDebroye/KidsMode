@@ -39,8 +39,8 @@ RPi ES Kids Mode Toggler is
 
 - **If downloaded via Chrome** and flagged as '*... is not commonly downloaded and may be dangerous.*':
 	- ![Example](https://raw.githubusercontent.com/KimDebroye/KidsMode/master/_GitHubAssets/KidsMode_ChromeDownloadFix.png "Kids Mode Chrome Download Fix")
-	- In the Chrome download status bar, **click the arrow next to the 'Discard' option**.
-	- Select '**Keep**'.
+		- In the Chrome download status bar, **click the arrow next to the 'Discard' option**.
+		- Select '**Keep**'.
 - **If Windows Defender Smartscreen kicks in** after double clicking 'KidsMode.exe':
 	- ![Click 'More info'](https://raw.githubusercontent.com/KimDebroye/KidsMode/master/_GitHubAssets/WindowsDefender_SmartScreen_1.png "Windows Defender Smartscreen - Step 1")
 	- ![Click 'Run anyway'](https://raw.githubusercontent.com/KimDebroye/KidsMode/master/_GitHubAssets/WindowsDefender_SmartScreen_2.png "Windows Defender Smartscreen - Step 2")
