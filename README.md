@@ -28,7 +28,7 @@ RPi ES Kids Mode Toggler is
 
 ## How to setup &amp; run
 
-- **First read the section 'Important setup notes &amp; Troubleshooting' below**
+- **First read the section '[Important setup notes &amp; Troubleshooting](#important-setup-notes--troubleshooting)' below**
 - Go to https://github.com/KimDebroye/KidsMode/releases
 - Download the latest release
   - (or the latest master)
@@ -37,11 +37,11 @@ RPi ES Kids Mode Toggler is
 
 ### Important setup notes &amp; Troubleshooting
 
-- When downloaded via Chrome and flagged as '*... is not commonly downloaded and may be dangerous.*':
+- **If downloaded via Chrome** and flagged as '*... is not commonly downloaded and may be dangerous.*':
 	- ![Example](https://raw.githubusercontent.com/KimDebroye/KidsMode/master/_GitHubAssets/KidsMode_ChromeDownloadFix.png "Kids Mode Chrome Download Fix")
 	- In the Chrome download status bar, **click the arrow next to the 'Discard' option**.
 	- Select '**Keep**'.
-- Follow these steps if Windows Defender Smartscreen kicks in after double clicking 'KidsMode.exe':
+- **If Windows Defender Smartscreen kicks in** after double clicking 'KidsMode.exe':
 	- ![Click 'More info'](https://raw.githubusercontent.com/KimDebroye/KidsMode/master/_GitHubAssets/WindowsDefender_SmartScreen_1.png "Windows Defender Smartscreen - Step 1")
 	- ![Click 'Run anyway'](https://raw.githubusercontent.com/KimDebroye/KidsMode/master/_GitHubAssets/WindowsDefender_SmartScreen_2.png "Windows Defender Smartscreen - Step 2")
 
