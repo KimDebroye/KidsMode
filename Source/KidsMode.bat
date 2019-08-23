@@ -1,5 +1,5 @@
 @echo off
 
-Powershell.exe -executionpolicy remotesigned -File powershell/KidsMode.ps1
+Powershell.exe -ExecutionPolicy ByPass -File powershell/KidsMode.ps1 RunAs
 
 exit
