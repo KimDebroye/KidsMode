@@ -19,9 +19,10 @@ RPi ES Kids Mode Toggler is
 
 ## Requirements
 
-- Windows 7 / Windows Server 2008 R2 or higher
-- Windows Management Framework 2 or higher installed
+- Windows 7 / Windows Server 2008 R2 or higher.
+- Windows Management Framework 2 or higher installed.
 	- Note: should normally be the case.
+- Microsoft .NET Framework 4.0 or higher installed.
 - Raspberry Pi connected on the same network as your pc.
 	- You can check this by typing `\\RETROPIE` as the address in an explorer window.
 	- If you are unsure how to connect your Raspberry Pi to your network, please read https://github.com/RetroPie/RetroPie-Setup/wiki/Wifi#configuring-wifi
