@@ -1,6 +1,6 @@
 # RPi ES Kids Mode Toggler
 
-![Kids Mode Preview](https://github.com/KimDebroye/KidsMode/blob/master/_GitHubAssets/Preview.png "Kids Mode Preview")
+![Kids Mode Preview](https://i.imgur.com/3t3nuj3.png "Kids Mode Preview")
 
 ## At a glance
 
