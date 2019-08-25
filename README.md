@@ -87,7 +87,7 @@ RPi ES Kids Mode Toggler is
 - Ability to show/hide the Kids Mode log box (*by clicking the white arrow*).
 	- *Toggle preference is remembered when tool is reopened*.
 
-## Options for more experienced users
+### Options for more experienced users
 - Ability to create and set your own theme in '*assets/themes*' & '*assets/KidsMode.ini*'.
 - Ability to find & replace `\\RETROPIE` to any other RPi samba share in '*assets/KidsMode.ini*'.
 
