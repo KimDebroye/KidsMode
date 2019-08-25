@@ -51,11 +51,10 @@ RPi ES Kids Mode Toggler is
 ## How to use & what it does
 
 - At first run, this tool does the following:
-	- It creates a subfolder called 'assets'.
-	- It creates a 'KidsMode.ini' file in the assets folder.
+	- It creates a 'KidsMode.ini' file in the 'assets' folder.
 	- It creates a backup of all files and folders that this tool may change in the 'assets\backup' folder.
 		- **Important note**: `Depending on the size and quantity of the files and folders needing a backup, it may take some time for this tool to pop up when you run it the first time. Please be patient.`
-	- *Note: when the 'assets' folder is deleted, the above steps are repeated.*
+	- *Note: when the contents in the 'assets' folder are deleted, the above steps are repeated.*
 - **Retropie Options Menu**
 	- This button toggles the Retropie Options Menu visibility in your system select screen.
 	- When hidden, no Retropie Options can be changed (*unless via command shell over SSH or by pressing F4 on the keyboard connected to your RPi*).
@@ -85,6 +84,12 @@ RPi ES Kids Mode Toggler is
 	- This button toggles between available EmulationStation UI Modes (Full, Kiosk, Kids).
 	- More information about UI Modes: https://github.com/RetroPie/RetroPie-Setup/wiki/Child-friendly-EmulationStation#ui-modes
 	- *Note: Requires an EmulationStation restart or RPi reboot in order for changes to take effect.*
+- Ability to show/hide the Kids Mode log box (*by clicking the white arrow*).
+	- *Toggle preference is remembered when tool is reopened*.
+
+## Options for more experienced users
+- Ability to create and set your own theme in '*assets/themes*' & '*assets/KidsMode.ini*'.
+- Ability to find & replace `\\RETROPIE` to any other RPi samba share in '*assets/KidsMode.ini*'.
 
 ## Technical Notes
 
