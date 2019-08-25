@@ -55,16 +55,16 @@ RPi ES Kids Mode Toggler is
 	- It creates a backup of all files and folders that this tool may change in the 'assets\backup' folder.
 		- **Important note**: `Depending on the size and quantity of the files and folders needing a backup, it may take some time for this tool to pop up when you run it the first time. Please be patient.`
 	- *Note: when the contents in the 'assets' folder are deleted, the above steps are repeated.*
-- **Retropie Options Menu**
+- ![Retropie Options Menu](https://raw.githubusercontent.com/KimDebroye/KidsMode/master/_GitHubAssets/buttons/btn_options-menu.png) **Retropie Options Menu**
 	- This button toggles the Retropie Options Menu visibility in your system select screen.
 	- When hidden, no Retropie Options can be changed (*unless via command shell over SSH or by pressing F4 on the keyboard connected to your RPi*).
 	- *Note: Requires an EmulationStation restart or RPi reboot in order for changes to take effect.*
-- **Launch Menu**
+- ![Launch Menu](https://raw.githubusercontent.com/KimDebroye/KidsMode/master/_GitHubAssets/buttons/btn_launch-menu.png) **Launch Menu**
 	- This button enables or disables the Launch Menu at game boot.
 	- When off, no button (*default is the zero button of your controller*) will trigger the Launch Menu screen.
 	- It does not change the visibility of launching images and/or video (when present).
 	- *Note: Does not require an EmulationStation restart or RPi reboot in order for changes to take effect.*
-- **RetroArch Ingame Menu**
+- ![RetroArch Ingame Menu](https://raw.githubusercontent.com/KimDebroye/KidsMode/master/_GitHubAssets/buttons/btn_ingame-menu.png) **RetroArch Ingame Menu**
 	- This button enables or disables the ability to show the RetroArch Ingame Menu via a controller hotkey (*when an hotkey is set*).
 	- When off, f.e. (Select+X) won't show the RetroArch Ingame menu.
 		- Note: Keyboard hotkey or, when specifically set, a controller hotkey combo will still work.
@@ -80,7 +80,7 @@ RPi ES Kids Mode Toggler is
 					- `Set any other hotkey binds`
 			- `Go to Main Menu (1st tab) -> Configuration File`
 				- `Save Current Configuration`
-- **UI Mode**
+- ![UI Mode - Full](https://raw.githubusercontent.com/KimDebroye/KidsMode/master/_GitHubAssets/buttons/btn_ui-full.png) ![UI Mode - Kiosk](https://raw.githubusercontent.com/KimDebroye/KidsMode/master/_GitHubAssets/buttons/btn_ui-kiosk.png) ![UI Mode - Kids](https://raw.githubusercontent.com/KimDebroye/KidsMode/master/_GitHubAssets/buttons/btn_ui-kids.png) **UI Mode**
 	- This button toggles between available EmulationStation UI Modes (Full, Kiosk, Kids).
 	- More information about UI Modes: https://github.com/RetroPie/RetroPie-Setup/wiki/Child-friendly-EmulationStation#ui-modes
 	- *Note: Requires an EmulationStation restart or RPi reboot in order for changes to take effect.*
@@ -106,6 +106,8 @@ RPi ES Kids Mode Toggler is
 - **UI Mode**
 	- Affects `\\RETROPIE\configs\all\emulationstation\es_settings.cfg`
 	- Changes value of `<string name="UIMode" ... />`
+- Powershell converted to executable using PowerGUI.
+	- Version info of executable edited using Resource Hacker.
 
 ## Notes
 
