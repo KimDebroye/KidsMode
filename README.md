@@ -27,16 +27,16 @@ RPi ES Kids Mode Toggler is
 	- You can check this by typing `\\RETROPIE` as the address in an explorer window.
 	- If you are unsure how to connect your Raspberry Pi to your network, please read https://github.com/RetroPie/RetroPie-Setup/wiki/Wifi#configuring-wifi
 
-## How to setup &amp; run
+## How to setup & run
 
-- **First read the section '[Important setup notes &amp; Troubleshooting](#important-setup-notes--troubleshooting)' below**
+- **First read the section '[Important setup notes & Troubleshooting](#important-setup-notes--troubleshooting)' below**
 - Go to https://github.com/KimDebroye/KidsMode/releases
 - Download the latest release
   - (or the latest master)
-- Extract 'KidsMode.exe' anywhere on Windows PC
-- Double click 'KidsMode.exe'
+- Extract '*KidsMode.exe*' together with the '*assets*' folder anywhere on Windows PC
+- Double click '*KidsMode.exe*'
 
-### Important setup notes &amp; Troubleshooting
+### Important setup notes & Troubleshooting
 
 - **If downloaded via Chrome** and flagged as '*... is not commonly downloaded and may be dangerous.*':
 	- ![Example](https://raw.githubusercontent.com/KimDebroye/KidsMode/master/_GitHubAssets/KidsMode_ChromeDownloadFix.png "Kids Mode Chrome Download Fix")
@@ -51,8 +51,8 @@ RPi ES Kids Mode Toggler is
 ## How to use & what it does
 
 - At first run, this tool does the following:
-	- It creates a 'KidsMode.ini' file in the 'assets' folder.
-	- It creates a backup of all files and folders that this tool may change in the 'assets\backup' folder.
+	- It creates a '*KidsMode.ini*' file in the '*assets*' folder.
+	- It creates a backup of all files and folders that this tool may change in the '*assets\backup*' folder.
 		- **Important note**: `Depending on the size and quantity of the files and folders needing a backup, it may take some time for this tool to pop up when you run it the first time. Please be patient.`
 	- *Note: when the contents in the 'assets' folder are deleted, the above steps are repeated.*
 - ![Retropie Options Menu](https://raw.githubusercontent.com/KimDebroye/KidsMode/master/_GitHubAssets/buttons/btn_options-menu.png) **Retropie Options Menu**
