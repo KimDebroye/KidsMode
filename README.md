@@ -110,7 +110,7 @@ RPi ES Kids Mode Toggler is
 
 ## General Notes
 
-- Feel free to try, improve the tool.
+- Feel free to try & improve the tool.
 - Let me know about any bugs/issues.
 	- In case of a bug / an issue, I can't follow up full time, though I do my best to provide a fix if needed.
 - Feedback and general impressions are always welcome.
