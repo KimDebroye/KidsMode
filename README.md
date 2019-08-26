@@ -30,8 +30,7 @@ RPi ES Kids Mode Toggler is
 ## How to setup & run
 
 - **First read the section '[Important setup notes & Troubleshooting](#important-setup-notes--troubleshooting)' below**
-- Go to https://github.com/KimDebroye/KidsMode/releases
-- Download the latest release
+- [Download the latest release](https://github.com/KimDebroye/KidsMode/releases)
   - (or the latest master)
 - Extract '*KidsMode.exe*' together with the '*assets*' folder anywhere on Windows PC
 - Double click '*KidsMode.exe*'
@@ -109,8 +108,14 @@ RPi ES Kids Mode Toggler is
 - Powershell converted to executable using PowerGUI.
 	- Version info of executable edited using Resource Hacker.
 
-## Notes
+## General Notes
 
-- Feel free to test, improve the tool and let me know about any bugs/issues.
-I can't follow up full time though. I'm hoping the community can improve this tool where needed and gladly wanted to share it as is.
-Furthermore, feedback is always welcome.
+- Feel free to try, improve the tool.
+- Let me know about any bugs/issues.
+	- In case of a bug / an issue, I can't follow up full time, though I do my best to provide a fix if needed.
+- Feedback and general impressions are always welcome.
+
+## Feedback, impressions & bug/issue reporting
+
+- [ \[ Retropie Forum Announcement Thread \] ](https://retropie.org.uk/forum/topic/23268/tool-rpi-es-kids-mode-toggler)
+- [ \[ Reddit Announcement Thread \] ](https://www.reddit.com/r/RetroPie/comments/crnxag/tool_rpi_es_kids_mode_toggler/)
